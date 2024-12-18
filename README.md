@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/santiago-berrezueta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-berrezueta/" height="30" width="40" /></a>
 <a href="https://discord.com/users/santiastico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Santiastico" height="30" width="40" /></a>
 <a href="mailto:santiastic@outlook.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios/50/000000/email.png" alt="Email" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/ios/50/000000/email.png" alt="Email" height="30" width="40" style="background: white; padding: 5px; border-radius: 5px;" />
 </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
